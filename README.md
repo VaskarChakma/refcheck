@@ -121,7 +121,7 @@ Anyone who wants to verify citations quickly
 Clone the repository.
 
 ```bash
-git clone [https://github.com/yourusername/refcheck.git](https://github.com/VaskarChakma/RefCheck.git)
+git clone https://github.com/VaskarChakma/refcheck.git
 
 ```
 
