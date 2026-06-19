@@ -121,12 +121,11 @@ Anyone who wants to verify citations quickly
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/refcheck.git
+git clone [https://github.com/yourusername/refcheck.git](https://github.com/VaskarChakma/RefCheck.git)
 
-cd refcheck
 ```
 
-Open refcheck.html in your browser.
+Open index.html in your browser.
 
 No installation is required.
 
